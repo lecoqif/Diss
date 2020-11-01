@@ -1,0 +1,12 @@
+dnnlib: Running selfsupervised_denoising.train() on localhost...
+Not loading training data.
+Loading validation dataset from '/home/abhay/workspace/selfsupervised-denoising/datasets/kodak/*.png'.
+Loaded 24 images.
+Validation image padded size = [768, 768].
+Repeating the validation set 10 times.
+Evaluating network '/home/abhay/workspace/selfsupervised-denoising/datasets/pretrained/network-00013-gauss25-blindspot-sigma_known.pickle'.
+Evaluating network with 240 images.
+       0: time=  0.00, loss=  0.0000, train_psnr=  0.0000, train_psnr_pme=  0.0000, std_net=  0.0000, std_noise=  0.0000, valid_psnr_mu= 30.6732, valid_psnr_pme= 32.4522
+Evaluation done, exiting.
+RESULT  32.4522
+dnnlib: Finished selfsupervised_denoising.train() in 1m 22s.
