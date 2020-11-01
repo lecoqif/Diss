@@ -1,0 +1,4 @@
+{   'host_name': 'localhost',
+    'start_time': '2020-11-01 21:18:33.903324',
+    'stop_time': '2020-11-01 21:19:54.850417',
+    'task_name': 'abhay-00000-eval-ilsvrc-kodak-3c-gauss25-iter2m-blindspot-known-EVAL_gauss25-blindspot-sigma_known'}
